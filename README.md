@@ -1,6 +1,13 @@
 ### My Name is Chitra Manral 👋
 
-<h1 align="center">📊 GitHub Stats</h1>
+<!-- Typing Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=500&color=00C4FF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Chitra+Manral+👋;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+</h1>
+
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
 
@@ -18,6 +25,24 @@
 ---
 
 ### 🧠 About Me
+
+🌸 Passionate about coding and learning new technologies.  
+💻 Exploring full-stack development and open-source collaboration.  
+📚 Always looking to grow and contribute!  
+
+---
+
+### 🌐 Connect With Me  
+<p align="center">
+  <a href="https://github.com/ChitraManral" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/chitramanral" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+---
 
 🌸 Passionate about coding and learning new technologies.  
 💻 Exploring full-stack development and open-source collaboration.  
